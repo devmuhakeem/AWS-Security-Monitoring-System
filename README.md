@@ -1,13 +1,13 @@
 # AWS-Security-Monitoring-System
 
-AWS Security Monitoring System
-👋 Overview
+
+ # Overview
 
 This project demonstrates how to build a real-world cloud security monitoring system using native AWS services. The goal is to detect access to sensitive AWS resources and receive immediate alerts, helping security teams respond to insider threats, credential misuse, or early signs of cloud compromise.
 
 As a Cloud Security Engineer, you will implement monitoring, alerting, and automated mitigation (“Kill-Switch”) workflows to simulate a defensive security pipeline.
 
-🎯 Objectives
+# Objectives
 
 Track sensitive AWS resource access (Secrets Manager secrets, S3 buckets, etc.)
 
@@ -19,7 +19,7 @@ Automate response to potential breaches using Lambda or SSM
 
 Understand continuous monitoring principles and forensic reporting
 
-🧩 Architecture & Core Services
+# Architecture & Core Services
 
 Services Used:
 
